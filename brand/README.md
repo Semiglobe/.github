@@ -4,7 +4,7 @@ Semiglobe products are built on [Material Design 3](https://m3.material.io/).
 
 | Piece | File | Notes |
 | --- | --- | --- |
-| Mark | [`semiglobe-mark.svg`](semiglobe-mark.svg) | Half a globe above a curve. Uses `currentColor`. |
+| Mark | [`semiglobe-mark.svg`](semiglobe-mark.svg) | Capsule with two diagonal cuts. Uses `currentColor`. |
 | Avatar | [`avatar.png`](avatar.png) | 1000 × 1000 px, white mark on `primary`. |
 | Tokens | [`tokens.json`](tokens.json) | MD3 color roles for light and dark, type and shape scale. |
 
