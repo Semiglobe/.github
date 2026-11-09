@@ -11,3 +11,4 @@ Semiglobe products are built on [Material Design 3](https://m3.material.io/).
 - **Color:** generated from seed `#1F5FD6` with Google's Material Color Utilities (`SchemeFidelity`).
 - **Type:** Google Sans Flex (SIL Open Font License 1.1).
 - **Shape:** the MD3 corner scale, with `extraLargeIncreased` (32 px) on hero surfaces.
+- **Icons:** [Material Symbols](https://fonts.google.com/icons), Rounded, filled (Apache License 2.0).
