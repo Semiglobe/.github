@@ -12,26 +12,26 @@ Semiglobe is a **European B2B software company**. We are bringing communication,
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Semiglobe/.github/main/profile/assets/icons/communication.png" width="48" height="48" alt="">
-      <br><br><strong>Communication</strong><br>
-      Keeping teams connected, in a shared space that their own company controls.
+      <p><img src="https://raw.githubusercontent.com/Semiglobe/.github/main/profile/assets/icons/communication.png?v=2" width="48" height="60" alt=""></p>
+      <p><strong>Communication</strong><br>
+      Keeping teams connected, in a shared space that their own company controls.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Semiglobe/.github/main/profile/assets/icons/productivity.png" width="48" height="48" alt="">
-      <br><br><strong>Productivity</strong><br>
-      The everyday tools that people across a company use to get work done together.
+      <p><img src="https://raw.githubusercontent.com/Semiglobe/.github/main/profile/assets/icons/productivity.png?v=2" width="48" height="60" alt=""></p>
+      <p><strong>Productivity</strong><br>
+      The everyday tools that people across a company use to get work done together.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Semiglobe/.github/main/profile/assets/icons/security.png" width="48" height="48" alt="">
-      <br><br><strong>Security</strong><br>
-      Protection for company accounts, access and the information teams share.
+      <p><img src="https://raw.githubusercontent.com/Semiglobe/.github/main/profile/assets/icons/security.png?v=2" width="48" height="60" alt=""></p>
+      <p><strong>Security</strong><br>
+      Protection for company accounts, access and the information teams share.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Semiglobe/.github/main/profile/assets/icons/business.png" width="48" height="48" alt="">
-      <br><br><strong>Business management</strong><br>
-      The tools to run the company itself, added progressively over time.
+      <p><img src="https://raw.githubusercontent.com/Semiglobe/.github/main/profile/assets/icons/business.png?v=2" width="48" height="60" alt=""></p>
+      <p><strong>Business management</strong><br>
+      The tools to run the company itself, added progressively over time.</p>
     </td>
   </tr>
 </table>
@@ -41,19 +41,19 @@ Semiglobe is a **European B2B software company**. We are bringing communication,
 <table>
   <tr>
     <td width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/Semiglobe/.github/main/profile/assets/icons/privacy.png" width="48" height="48" alt="">
-      <br><br><strong>Privacy comes first</strong><br>
-      It shapes how we design software from the start, not after it ships.
+      <p><img src="https://raw.githubusercontent.com/Semiglobe/.github/main/profile/assets/icons/privacy.png?v=2" width="48" height="60" alt=""></p>
+      <p><strong>Privacy comes first</strong><br>
+      It shapes how we design software from the start, not after it ships.</p>
     </td>
     <td width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/Semiglobe/.github/main/profile/assets/icons/sovereignty.png" width="48" height="48" alt="">
-      <br><br><strong>Sovereignty matters</strong><br>
-      Companies should stay in control of their tools and their information.
+      <p><img src="https://raw.githubusercontent.com/Semiglobe/.github/main/profile/assets/icons/sovereignty.png?v=2" width="48" height="60" alt=""></p>
+      <p><strong>Sovereignty matters</strong><br>
+      Companies should stay in control of their tools and their information.</p>
     </td>
     <td width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/Semiglobe/.github/main/profile/assets/icons/people.png" width="48" height="48" alt="">
-      <br><br><strong>Software is for people</strong><br>
-      Work tools should be clear, calm and respectful of those who use them.
+      <p><img src="https://raw.githubusercontent.com/Semiglobe/.github/main/profile/assets/icons/people.png?v=2" width="48" height="60" alt=""></p>
+      <p><strong>Software is for people</strong><br>
+      Work tools should be clear, calm and respectful of those who use them.</p>
     </td>
   </tr>
 </table>
